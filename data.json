@@ -8,5 +8,105 @@
       "address": "AnyCsr1VCBZcwVAxbKPuHhKDP5DQQSnRxGAo4ycgRMi2",
       "name": "Dalmatiancoin",
       "symbol": "DAL"
+    },
+  "parti": {
+      "address": "B3Ggjjj3QargPkFTAJiR6BaD8CWKFUaWRXGcDQ1nyeeD",
+      "name": "PARTI",
+      "symbol": "PARTI"
+    },
+  "grape": {
+      "address": "8upjSpvjcdpuzhfR1zriwg5NXkwDruejqNE9WNbPRtyA",
+      "name": "GRAPE",
+      "symbol": "GRAPE"
+    },
+  "mola": {
+      "address": "AMdnw9H5DFtQwZowVFr4kUgSXJzLokKSinvgGiUoLSps",
+      "name": "MOLA",
+      "symbol": "MOLA"
+    },
+  "frog": {
+      "address": "Amt5wUJREJQC5pX7Z48YSK812xmu4j3sQVupNhtsEuY8",
+      "name": "FROG",
+      "symbol": "FROG"
+    },
+  "potato": {
+      "address": "GEYrotdkRitGUK5UMv3aMttEhVAZLhRJMcG82zKYsaWB",
+      "name": "POTATO",
+      "symbol": "POTATO"
+    },
+  "woof": {
+      "address": "9nEqaUcb16sQ3Tn1psbkWqyhPdLmfHWjKGymREjsAgTE",
+      "name": "WOOF",
+      "symbol": "WOOF"
+    },
+  "ninja": {
+      "address": "Ae1aeYK9WrB2kP29jJU4aUUK7Y1vzsGNZFKoe4BG2h6P",
+      "name": "NINJA",
+      "symbol": "NINJA"
+    },
+  "cheems": {
+      "address": "3FoUAsGDbvTD6YZ4wVKJgTB76onJUKz7GPEBNiR5b8wc",
+      "name": "CHEEMS",
+      "symbol": "CHEEMS"
+    },
+  "bole": {
+      "address": "7uv3ZvZcQLd95bUp5WMioxG7tyAZVXFfr8JYkwhMYrnt",
+      "name": "BOLE",
+      "symbol": "BOLE"
+    },
+  "llama": {
+      "address": "9nusLQeFKiocswDt6NQsiErm1M43H2b8x6v5onhivqKv",
+      "name": "SOLLAMA",
+      "symbol": "LLAMA"
+    },
+  "kermit": {
+      "address": "7xzovRepzLvXbbpVZLYKzEBhCNgStEv1xpDqf1rMFFKX",
+      "name": "KERMIT",
+      "symbol": "KERMIT"
+    },
+  "fefe": {
+      "address": "GXL164trLUbf7FTjp76DLdgPiAzjysGosUaKTbCrsFK3",
+      "name": "FEFE",
+      "symbol": "FEFE"
+    },
+  "bop": {
+      "address": "BLwTnYKqf7u4qjgZrrsKeNs2EzWkMLqVCu6j8iHyrNA3",
+      "name": "Boring Token",
+      "symbol": "BOP"
+    },
+  "bde": {
+      "address": "H5gczCNbrtso6BqGKihF97RaWaxpUEZnFuFUKK4YX3s2",
+      "name": "Big Defi Energy",
+      "symbol": "BDE"
+    },
+  "fab": {
+      "address": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
+      "name": "FABRIC",
+      "symbol": "FAB"
+    },
+  "sail": {
+      "address": "6kwTqmdQkJd8qRr9RjSnUX9XJ24RmJRSrU1rsragP97Y",
+      "name": "SOLSAIL",
+      "symbol": "SAIL"
+    },
+  "gangs": {
+      "address": "HcJCPYck2UsTMgiPfjn6CS1wrC5iBXtuqPSjt8Qy8Sou",
+      "name": "GANGS",
+      "symbol": "GANGS"
+    },
+  "star": {
+      "address": "2eZ45YBgQEftoxEVyCTWEULLNkDxSVSMrwv7LXiZn4sk",
+      "name": "SOLASTAR",
+      "symbol": "STAR"
+    },
+  "snowshoe": {
+      "address": "FY6XDSCubMhpkU9FAsUjB7jmN8YHYZGezHTWo9RHBSyX",
+      "name": "SNOWSHOE",
+      "symbol": "SNOWSHOE"
+    },
+  "sbfc": {
+      "address": "AWW5UQfMBnPsTaaxCK7cSEmkj1kbX2zUrqvgKXStjBKx",
+      "name": "SBF Coin",
+      "symbol": "SBFC"
     }
 }
